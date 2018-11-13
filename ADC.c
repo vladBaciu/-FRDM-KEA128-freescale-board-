@@ -4,7 +4,7 @@
  * LDrvAdc.c
  *
  *  Created on: Mar 27, 2018
- *      Author: tigau_t1
+ *      Author: vlad
  */
 
 
