@@ -2,7 +2,7 @@
  * LDrvAdc.h
  *
  *  Created on: Mar 27, 2018
- *      Author: tigau_t1
+ *      Author: vlad
  */
 
 #ifndef LDRVADC_H_
